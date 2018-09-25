@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1498292855 source:f:\codeblocks\c programs\continue pyramid in c\main.c
+	<stdio.h>
+	<conio.h>
+
